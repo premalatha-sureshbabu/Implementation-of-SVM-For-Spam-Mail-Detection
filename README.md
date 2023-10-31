@@ -65,17 +65,27 @@ accuracy
 ```
 
 ## Output:
+Result:
+
 ![image](https://github.com/premalatha-sureshbabu/Implementation-of-SVM-For-Spam-Mail-Detection/assets/120620842/2721361c-4c33-42d2-badd-38a4e2739ad5)
+
+data.head():
 
 ![image](https://github.com/premalatha-sureshbabu/Implementation-of-SVM-For-Spam-Mail-Detection/assets/120620842/051bd5f5-77cc-488d-8384-b0292298c98d)
 
+data.info():
+
 ![image](https://github.com/premalatha-sureshbabu/Implementation-of-SVM-For-Spam-Mail-Detection/assets/120620842/8f64e653-6637-447f-a447-d2e6dfd4012c)
+
+data.isnull().sum():
 
 ![image](https://github.com/premalatha-sureshbabu/Implementation-of-SVM-For-Spam-Mail-Detection/assets/120620842/94d9ad0d-c7df-4d8a-9a95-92cd5ea1b5b4)
 
-![image](https://github.com/premalatha-sureshbabu/Implementation-of-SVM-For-Spam-Mail-Detection/assets/120620842/d1013d20-b5cd-4652-ab4d-7ee9cfac7780)
+Y prediction value:
 
 ![image](https://github.com/premalatha-sureshbabu/Implementation-of-SVM-For-Spam-Mail-Detection/assets/120620842/e2e9671e-5993-4ef8-9319-13829fb3a9f1)
+
+Accuracy value: 
 
 ![image](https://github.com/premalatha-sureshbabu/Implementation-of-SVM-For-Spam-Mail-Detection/assets/120620842/e01ad6f7-1834-4b10-8edd-bd3fdb829ae3)
 
